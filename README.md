@@ -3,7 +3,7 @@
 
 This project focuses on predicting average monthly prices for the next 12 months using time series forecasting techniques. The goal is to help businesses make better decisions based on future price trends.
 
-** Features**
+**Features**
 Data cleaning and preprocessing
 Handling missing values and anomalies
 Time series forecasting using SARIMAX
@@ -28,9 +28,9 @@ Django & FastAPI
 ├── README.md               # Project documentation
 ├── requirements.txt        # Dependencies
 
-** How to Run**
+**How to Run**
 Clone the repository
-git clone https://github.com/your-username/monthly-price-forecasting-ml.git
+git clone https://github.com/Prathikshavanakudure/monthly-price-forecasting-ml.git
 Install dependencies
 pip install -r requirements.txt
 Run the notebook
@@ -46,6 +46,7 @@ Differencing applied for stationarity
 MAE (Mean Absolute Error)
 RMSE (Root Mean Squared Error)
 MAPE (Mean Absolute Percentage Error)
+
 **Deployment Architecture**
 Django: Handles authentication, database, APIs
 FastAPI: Serves ML model for real-time predictions
@@ -56,6 +57,7 @@ Supports better inventory and pricing decisions
 Reduces financial risk using forecast insights
 
 **Author:** Prathiksha V
+
 **Contact:**
 Email: prathikshavanakudure@gmail.com
 Phone: 8867033641
